@@ -2,18 +2,18 @@ using System;
 
 namespace NccLabAju
 {
-    public class MyClass
+    public class PropertyDemo
     {
-        // Auto-property
-        public string AutoProperty { get; set; }
-
-        // Read-only property
-        public string ReadOnlyProperty { get; }
-
-        // Constructor to initialize read-only property
-        public MyClass(string readOnlyValue)
+        public string _name ="Aju maharjan";
+        public string Name
         {
-            ReadOnlyProperty = readOnlyValue;
+            get
+            {
+                return _name.ToUpper(); //converting to upper case
+            }
+            set { 
+                _name=value;
+            }
         }
     }
 }

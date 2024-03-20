@@ -4,11 +4,12 @@ class Program
 {
     static void Main(string[] args)
     {
-        StaticConstructor d1 = new StaticConstructor();
-        Console.WriteLine("Hello from main");
-        Console.WriteLine("value of count= " + StaticConstructor.count);
-        StaticConstructor d2 = new StaticConstructor();
-        Console.WriteLine("value of count= " + StaticConstructor.count);
+        PropertyDemo pd = new PropertyDemo();
+        string fullName = pd.Name;
+        Console.WriteLine("Hello " + fullName + "\n");
+
+        pd.Name = "Using Set Property";
+        Console.WriteLine(pd._name);
         Console.WriteLine("Lab No:1");
         Console.WriteLine("Name:Aju Maharjan");
         Console.WriteLine("Roll no:38,Section:B");
