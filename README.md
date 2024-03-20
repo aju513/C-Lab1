@@ -26,8 +26,8 @@
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>6</td>
+        <td>Bishal Shrestha</td>
     </tr>
     <tr>
         <td></td>
