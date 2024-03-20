@@ -12,3 +12,4 @@
 /home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.pdb
 /home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.genruntimeconfig.cache
 /home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/ref/muapp.dll
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.sourcelink.json
