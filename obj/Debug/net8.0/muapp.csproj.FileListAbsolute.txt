@@ -1,0 +1,14 @@
+/home/aju/Documents/dotnet/muapp/bin/Debug/net8.0/muapp
+/home/aju/Documents/dotnet/muapp/bin/Debug/net8.0/muapp.deps.json
+/home/aju/Documents/dotnet/muapp/bin/Debug/net8.0/muapp.runtimeconfig.json
+/home/aju/Documents/dotnet/muapp/bin/Debug/net8.0/muapp.dll
+/home/aju/Documents/dotnet/muapp/bin/Debug/net8.0/muapp.pdb
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.AssemblyInfoInputs.cache
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.AssemblyInfo.cs
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.csproj.CoreCompileInputs.cache
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.dll
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/refint/muapp.dll
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.pdb
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/muapp.genruntimeconfig.cache
+/home/aju/Documents/dotnet/muapp/obj/Debug/net8.0/ref/muapp.dll
