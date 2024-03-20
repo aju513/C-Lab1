@@ -4,12 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        PropertyDemo pd = new PropertyDemo();
-        string fullName = pd.Name;
-        Console.WriteLine("Hello " + fullName + "\n");
-
-        pd.Name = "Using Set Property";
-        Console.WriteLine(pd._name);
+        DerivedClass md = new DerivedClass();
+        DerivedClass md1 = new DerivedClass(15);
+        Console.WriteLine("Number = " + md1.GetNum());
         Console.WriteLine("Lab No:1");
         Console.WriteLine("Name:Aju Maharjan");
         Console.WriteLine("Roll no:38,Section:B");
