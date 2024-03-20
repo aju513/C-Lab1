@@ -18,9 +18,12 @@ namespace NccLabAju
 
         public void display()
         {
-            Console.WriteLine("Default Name is : " + name);
+   
+            Console.WriteLine("Copied Name from CopyConsturctor is : " + name);
+            Console.WriteLine("");
+            Console.WriteLine("Lab No:1");
+            Console.WriteLine("Name:Aju Maharjan");
+            Console.WriteLine("Roll no:38,Section:B");
         }
-
-
     }
 }
