@@ -2,21 +2,16 @@ using System;
 
 namespace NccLabAju
 {
-    using System;
-
-    // Generic class definition
     public class GenericClass<T>
     {
-        // Generic field
+   
         private T genericField;
 
-        // Constructor
         public GenericClass(T value)
         {
             genericField = value;
         }
 
-        // Generic method
         public void DisplayValue()
         {
             Console.WriteLine("Value: " + genericField);
