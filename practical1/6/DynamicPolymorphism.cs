@@ -1,5 +1,22 @@
 using System;
 
+/*
+Theory:
+Polymorphism: It allows a class to have multiple implementations with the same name. It is one of the core principle 
+of OOP after encapsulation and inhertirance.
+Types:
+1) Static / Compile Time Polymorphism
+    a) Method Overloading
+    b) Operator Overloading
+2 Dynamic / Runtime Polymorphism
+    a) Virtual / Overriding Method
+
+Observatio:
+We are using Dynamic / Runtime Polymorphism in the following code where 
+we have a base class Vehicle which is inheritated in classes Car, Bicycle and Truck 
+and the function Go() is overridden and the child class are set as an array as Vehicle[].
+*/
+
 // Copy From here to program.cs
 class Vehicle
 {
