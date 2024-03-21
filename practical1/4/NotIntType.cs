@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 
+// Observation for b:
+//We can say that the data are indexed using string key
 class NotIntType
 {
     private Dictionary<string, string> data;

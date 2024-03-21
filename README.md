@@ -1,5 +1,6 @@
 #NCC LAB 1
 #3,7,8,9,12,15,16 left
+
 <table>
     <tr>
         <th>Question Number</th>
@@ -36,48 +37,48 @@ b) When index is of other than int type.</td>
         <td>Bishal Shrestha</td>
     </tr>
     <tr>
-        <td></td>
+        <td>7</td>
+        <td>Bishal Shrestha</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>Bishal Shrestha</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>Bishal Shrestha</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>Aju Maharjan</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>Aju Maharjan</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>Bishal Shrestha</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>Aju Maharjan</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>Aju Maharjan</td>
+    </tr>
+    <tr>
+        <td>15</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
+        <td>16</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td></td>
-        <td></td>
+        <td>17</td>
+        <td>Aju Maharjan</td>
     </tr>
     <tr>
         <td></td>

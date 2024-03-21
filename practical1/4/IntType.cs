@@ -1,5 +1,16 @@
 using System;
 
+// Theory for (4): 
+// Defination: 
+// Indexers allow instances of a class or struct to be indexed just like array. Also known as smart arrays.
+// The indexed value can be set or retrieved without explicitly specifying a type or instance memeber.
+// We use "this" keywords to create a indexers.
+
+
+// Observation for a:
+// In program of question no. a,;  we can observe that we use get and set to get the requested indexed value and set the value to the index respectively.
+// here the the data is set and fetched from the key which is an integer meaning the integer number is used to index the data
+
 class IntType
 {
     private string[] data;
