@@ -1,5 +1,5 @@
 #NCC LAB 1
-
+#3,7,8,9,12,15,16 left
 <table>
     <tr>
         <th>Question Number</th>
