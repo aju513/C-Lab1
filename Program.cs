@@ -1,10 +1,9 @@
-﻿using NccLabAju;
+﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
-    static void Main(string[] args)
-    {
-        NonGeneric temp = new NonGeneric();
-        temp.display();
-    }
+    static void Main() {
+        
+     }
 }

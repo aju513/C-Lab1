@@ -1,27 +1,35 @@
-using System;
+// you can just copy this code in program.cs but comment this code
+// using System;
+// using System.Collections.Generic;
 
-public class Pair<T>
-{
-    public T First { get; set; }
-    public T Second { get; set; }
-
-    public Pair(T first, T second)
-    {
-        First = first;
-        Second = second;
-    }
-
-    public void PrintPair()
-    {
-        Console.WriteLine($"First: {First}, Second: {Second}");
-    }
-}
-// static void Main()
+// class Program
+// {
+//     static void Main()
 //     {
+//         List<int> numbers = new List<int>();
 
-//         Pair<int> intPair = new Pair<int>(10, 20);
-//         intPair.PrintPair(); 
+//         numbers.Add(10);
+//         numbers.Add(20);
+//         numbers.Add(30);
 
-//         Pair<string> stringPair = new Pair<string>("Hello", "World");
-//         stringPair.PrintPair(); 
+//         Console.WriteLine("Elements in the list:");
+//         foreach (int num in numbers)
+//         {
+//             Console.WriteLine(num);
+//         }
+
+//         numbers.Remove(20);
+
+//         if (numbers.Contains(20))
+//         {
+//             Console.WriteLine("20 is in the list.");
+//         }
+//         else
+//         {
+//             Console.WriteLine("20 is not in the list.");
+//         }
+
+//         numbers.Clear();
+//         Console.WriteLine("List cleared. Count: " + numbers.Count);
 //     }
+// }
