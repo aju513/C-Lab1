@@ -9,7 +9,7 @@ namespace NccLabAju
 
     public class Dog : Animal
     {
-        string color = "black";
+        new string color = "black";
 
         public void showColor()
         {

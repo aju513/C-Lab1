@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/bishal/Desktop/C-Lab1/muapp.csproj": {}
+    "/home/aju/Documents/dotnet/muapp/muapp.csproj": {}
   },
   "projects": {
-    "/home/bishal/Desktop/C-Lab1/muapp.csproj": {
+    "/home/aju/Documents/dotnet/muapp/muapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bishal/Desktop/C-Lab1/muapp.csproj",
+        "projectUniqueName": "/home/aju/Documents/dotnet/muapp/muapp.csproj",
         "projectName": "muapp",
-        "projectPath": "/home/bishal/Desktop/C-Lab1/muapp.csproj",
-        "packagesPath": "/home/bishal/.nuget/packages/",
-        "outputPath": "/home/bishal/Desktop/C-Lab1/obj/",
+        "projectPath": "/home/aju/Documents/dotnet/muapp/muapp.csproj",
+        "packagesPath": "/home/aju/.nuget/packages/",
+        "outputPath": "/home/aju/Documents/dotnet/muapp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/bishal/.nuget/NuGet/NuGet.Config"
+          "/home/aju/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/239/sdk/8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

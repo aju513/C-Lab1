@@ -13,11 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("muapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18c0aa57ac369f25b3f2bc9937e92ce82fbbab5")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b879d5241e9436b0490d89a5d04fadbb342473")]
->>>>>>> 9afe9bdfc94beb78e95086d6701c1391e1488b3e
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7e5e70dcf1c9ae8f8df0192d5d8db608e9df95d")]
 [assembly: System.Reflection.AssemblyProductAttribute("muapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("muapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
