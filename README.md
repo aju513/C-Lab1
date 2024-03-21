@@ -11,7 +11,7 @@
     </tr>
     <tr>
         <td>2</td>
-        <td></td>
+        <td>Aju Maharjan</td>
     </tr>
     <tr>
         <td>3</td>
@@ -22,8 +22,8 @@
         <td>Bishal Shrestha</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>5</td>
+        <td>Aju Maharjan</td>
     </tr>
     <tr>
         <td>6</td>
